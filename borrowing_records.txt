@@ -1,0 +1,45 @@
+LIBRARY BORROWING RECORDS
+=========================
+
+Book ID: 2
+Book: Introduction to C
+Borrower: rohith
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: 2026-10-27
+-------------------------
+Book ID: 4
+Book: Introduction to Java
+Borrower: hari
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: 2026-10-27
+-------------------------
+Book ID: 6
+Book: Computer Networks
+Borrower: tony
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: 2026-10-27
+-------------------------
+Book ID: 8
+Book: Database Management Systems
+Borrower: steven
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: Not returned
+-------------------------
+Book ID: 10
+Book: Machine Learning Basics
+Borrower: athul
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: Not returned
+-------------------------
+Book ID: 9
+Book: Artificial Intelligence
+Borrower: sayan
+Borrow date: 2026-10-27
+Due date: 2026-11-10
+Return date: Not returned
+-------------------------

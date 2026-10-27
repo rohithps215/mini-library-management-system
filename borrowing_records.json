@@ -1,0 +1,50 @@
+[
+    {
+        "book": "Introduction to C",
+        "book_id": 2,
+        "borrower": "rohith",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": "2026-10-27"
+    },
+    {
+        "book": "Introduction to Java",
+        "book_id": 4,
+        "borrower": "hari",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": "2026-10-27"
+    },
+    {
+        "book": "Computer Networks",
+        "book_id": 6,
+        "borrower": "tony",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": "2026-10-27"
+    },
+    {
+        "book": "Database Management Systems",
+        "book_id": 8,
+        "borrower": "steven",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": null
+    },
+    {
+        "book": "Machine Learning Basics",
+        "book_id": 10,
+        "borrower": "athul",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": null
+    },
+    {
+        "book": "Artificial Intelligence",
+        "book_id": 9,
+        "borrower": "sayan",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10",
+        "return_date": null
+    }
+]

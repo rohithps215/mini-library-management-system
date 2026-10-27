@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "author": "John Smith",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 2,
+        "title": "Introduction to C",
+        "author": "James Wilson",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 3,
+        "title": "Data Structures and Algorithms",
+        "author": "Mark Allen",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 4,
+        "title": "Introduction to Java",
+        "author": "Robert Martin",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 5,
+        "title": "Web Development Basics",
+        "author": "David Miller",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 6,
+        "title": "Computer Networks",
+        "author": "Andrew Tanenbaum",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 7,
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "available": true,
+        "borrower": null,
+        "borrow_date": null,
+        "due_date": null
+    },
+    {
+        "id": 8,
+        "title": "Database Management Systems",
+        "author": "Raghu Ramakrishnan",
+        "available": false,
+        "borrower": "steven",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10"
+    },
+    {
+        "id": 9,
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell",
+        "available": false,
+        "borrower": "sayan",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10"
+    },
+    {
+        "id": 10,
+        "title": "Machine Learning Basics",
+        "author": "Tom Mitchell",
+        "available": false,
+        "borrower": "athul",
+        "borrow_date": "2026-10-27",
+        "due_date": "2026-11-10"
+    }
+]
